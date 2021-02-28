@@ -1,5 +1,5 @@
 body {
-	background-color: #000
+	background-color: #000;
 }
 
 #console {
@@ -34,7 +34,7 @@ a {
 }
 
 #op{
-    	color: #888888
+    	color: #888888;
 }
 
 @keyframes change {
@@ -44,5 +44,5 @@ a {
 }
 
 p { 
-	margin:0 
+	margin:0 ;
 }
