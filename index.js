@@ -7,13 +7,13 @@ var Typer={
 	
 	My motto, "<span id="k">Find a problem->Think->Design->Code->Deploy->Solve</span>" <!-- sjkfhskjf -->
 	
-	<span>I am currently a 3rd year <span id="a">Computer Science</span> student @ <span id="a">Bharati Vidyapeeth's College of Engineering</span>
+	<span>I am a final year <span id="a">Computer Science</span> student @ <span id="a">Bharati Vidyapeeth's College of Engineering, New Delhi</span>
 	
-	<span>I have interned with <span id="a">GeeksforGeeks</span> and several other startups and love to learn different technologies & solve interesting algorithms</span>
+	<span>I have interned with <span id="a">Bizongo</span>, <span id="a">GeeksforGeeks</span> and several other startups and love to learn different technologies & solve interesting algorithms</span>
 	
-	<span>I am a 4🌟 coder @ <a href="https://www.codechef.com/users/hrithik_malik" target="_blank">Codechef</a> </span>
+	<span>I am a 4🌟 coder @ <a href="https://www.codechef.com/users/hrithik_malik" target="_blank">Codechef</a> and ACM ICPC '20 Regionalist 👨‍💻</span>
 	
-	<span> Download my resume <a href="https://drive.google.com/file/d/1wcqMaKfuhy3ySh9lp4rXd5yW1BLb5_Rt/view?usp=sharing" target="_blank">here</a></span>
+	<span> Download my resume <a href="https://drive.google.com/file/d/113yPPzLqsCc7A9bnGqM_yH05o9gvBGNV/view?usp=sharing" target="_blank">here</a></span>
 	
 	<span>I am crazy about hackathons & building stuff and have won/participated in several hackathons - for example, <span id="a">HackBMU</span>, <span id="a">HackBPIT</span> & <span id="a">HackData</span>
 	</span>
