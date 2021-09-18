@@ -13,7 +13,7 @@ var Typer={
 	
 	<span>I am a 4🌟 coder @ <a href="https://www.codechef.com/users/hrithik_malik" target="_blank">Codechef</a> and ACM ICPC '20 Regionalist 👨‍💻</span>
 	
-	<span> Download my resume <a href="https://drive.google.com/file/d/113yPPzLqsCc7A9bnGqM_yH05o9gvBGNV/view?usp=sharing" target="_blank">here</a></span>
+	<span> Download my resume <a href="https://drive.google.com/file/d/1c80YmDW_sWBuxuz4HUOUvzoxgGSzYLlO/view?usp=sharing" target="_blank">here</a></span>
 	
 	<span>I am crazy about hackathons & building stuff and have won/participated in several hackathons - for example, <span id="a">HackBMU</span>, <span id="a">HackBPIT</span> & <span id="a">HackData</span>
 	</span>
