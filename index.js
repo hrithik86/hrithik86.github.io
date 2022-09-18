@@ -7,13 +7,15 @@ var Typer={
 	
 	My motto, "<span id="k">Find a problem->Think->Design->Code->Deploy->Solve</span>" <!-- sjkfhskjf -->
 	
-	<span>I am a final year <span id="a">Computer Science</span> student @ <span id="a">Bharati Vidyapeeth's College of Engineering, New Delhi</span>
+	<span>I am a 2022 <span id="a">Computer Science</span> graduate from <span id="a">Bharati Vidyapeeth's College of Engineering, New Delhi</span>
 	
-	<span>I have interned with <span id="a">Bizongo</span>, <span id="a">GeeksforGeeks</span> and several other startups and love to learn different technologies & solve interesting algorithms</span>
+	<span>I am currently working as a <span id="a">Backend Engineer</span> @ <span id="a">Zepto 🚀🚀</span>
+	
+	<span>I have interned with <span id="a">SuprDaily(Swiggy)</span>, <span id="a">Bizongo</span>, <span id="a">GeeksforGeeks</span> and several other startups and love to learn different technologies & solve interesting algorithms</span>
 	
 	<span>I am a 4🌟 coder @ <a href="https://www.codechef.com/users/hrithik_malik" target="_blank">Codechef</a> and ACM ICPC '20 Regionalist 👨‍💻</span>
 	
-	<span> Download my resume <a href="https://drive.google.com/file/d/1c80YmDW_sWBuxuz4HUOUvzoxgGSzYLlO/view?usp=sharing" target="_blank">here</a></span>
+	<span> Download my resume <a href="https://drive.google.com/file/d/1P0tcf3U2FyKl-QCKoUfYLfeXM4-k2aCf/view?usp=sharing" target="_blank">here</a></span>
 	
 	<span>I am crazy about hackathons & building stuff and have won/participated in several hackathons - for example, <span id="a">HackBMU</span>, <span id="a">HackBPIT</span> & <span id="a">HackData</span>
 	</span>
